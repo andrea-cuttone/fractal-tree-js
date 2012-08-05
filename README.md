@@ -1,10 +1,10 @@
 fractal-tree-js
 ===============
 
-An interactive fractal tree generator written in js. 
+An interactive fractal tree generator written in js. [Try me!](https://dl.dropbox.com/u/5087897/tree.html)
 
 Based on http://thecodeplayer.com/walkthrough/create-binary-trees-using-javascript-and-html5-canvas
 
 Tested on Chrome, Firefox, IE9
 
-![picture alt](http://imgur.com/4sQk3.png)
+![ss](http://imgur.com/4sQk3.png)
